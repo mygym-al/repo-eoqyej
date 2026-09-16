@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · wGw7Dq4H -->
-## Notification 1/2
-Round: Round 1
-To: leon.stark@bankofamerica.com, jo_bake@verizon.net
-At: 2026-09-16 14:14:27
-Id: wGw7Dq4H
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: jyates@omnihotels.com, julie@sparksclinic.com
+At: 2026-09-16 14:14:35
+Id: ZsGFAaMQ
